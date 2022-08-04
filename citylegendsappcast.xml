@@ -2,21 +2,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <!-- <title>CityLegends - Appcast</title>
+        <title>CityLegends - Appcast</title>
         <item>
             <title>Release Notes</title>
             <description>  - Improved map
   - Small improvements
   - Bugfixes</description>
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.citylegends.citylegends" sparkle:version="1.18.0" sparkle:os="android" />
-        </item> -->
-        <!-- A release testing minimumSystemVersion -->
-        <item>
-            <title>Version 4.0</title>
-            <pubDate>Sat, 26 Jul 2014 15:20:13 +0000</pubDate>
-            <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="4.0" sparkle:os="iOS" />
             <sparkle:minimumSystemVersion>17.0.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.citylegends.citylegends" sparkle:version="1.18.0" sparkle:os="android" />
         </item>
     </channel>
 </rss>
