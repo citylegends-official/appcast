@@ -5,18 +5,18 @@
         <title>CityLegends - Appcast</title>
         <item>
             <title>Release Notes</title>
-            <description>  - Improved map
+            <description>  - Challenges!
   - Small improvements
   - Bugfixes</description>
-            <pubDate>Fri, 5 Aug 2022 12:00:00 +0000</pubDate>
+            <pubDate>Mon, 12 Sep 2022 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.citylegends.citylegends" sparkle:version="1.2.16" sparkle:os="android" />
         </item>
         <item>
             <title>Release Notes</title>
-            <description>  - Improved map
+            <description>  - Challenges!
   - Small improvements
   - Bugfixes</description>
-            <pubDate>Fri, 5 Aug 2022 12:00:00 +0000</pubDate>
+            <pubDate>Mon, 12 Sep 2022 12:00:00 +0000</pubDate>
             <enclosure url="https://apps.apple.com/be/app/citylegends-skate-bmx-parkour/id1582785813" sparkle:version="1.2.16" sparkle:os="ios" />
         </item>
     </channel>
