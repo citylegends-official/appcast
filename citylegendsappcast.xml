@@ -5,19 +5,19 @@
         <title>CityLegends - Appcast</title>
         <item>
             <title>Release Notes</title>
-            <description>  - Challenges!
-  - Small improvements
-  - Bugfixes</description>
-            <pubDate>Mon, 12 Sep 2022 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.citylegends.citylegends" sparkle:version="1.3.1" sparkle:os="android" />
+            <description>  - New leaderboards: Votes given and spots owned
+  - Improved upload clip flow
+  - Bugfix to fix crashes</description>
+            <pubDate>Mon, 7 Nov 2022 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.citylegends.citylegends" sparkle:version="1.3.4" sparkle:os="android" />
         </item>
         <item>
             <title>Release Notes</title>
-            <description>  - Challenges!
-  - Small improvements
-  - Bugfixes</description>
-            <pubDate>Mon, 12 Sep 2022 12:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/be/app/citylegends-skate-bmx-parkour/id1582785813" sparkle:version="1.3.1" sparkle:os="ios" />
+            <description>  - New leaderboards: Votes given and spots owned
+  - Improved upload clip flow
+  - Bugfix to fix crashes</description>
+            <pubDate>Mon, 7 Nov 2022 12:00:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/be/app/citylegends-skate-bmx-parkour/id1582785813" sparkle:version="1.3.3" sparkle:os="ios" />
         </item>
     </channel>
 </rss>
