@@ -5,29 +5,19 @@
         <title>CityLegends - Appcast</title>
         <item>
             <title>Release Notes</title>
-            <description>Share your results and content!
-
-- Share your placement in challenges, tournaments and leaderboards
-- Share your profile
-- Share battles
-- Export videos
-
-Small improvements and bugfixes</description>
+            <description>- Filter faster on content in the app
+- Become the best battle voter there is!
+- Small improvements and bugfixes</description>
             <pubDate>Fri, 21 Mar 2024 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.citylegends.citylegends" sparkle:version="1.6.0" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.citylegends.citylegends" sparkle:version="1.7.1" sparkle:os="android" />
         </item>
         <item>
             <title>Release Notes</title>
-            <description>Share your results and content!
-
-- Share your placement in challenges, tournaments and leaderboards
-- Share your profile
-- Share battles
-- Export videos
-
-Small improvements and bugfixes</description>
+            <description>- Filter faster on content in the app
+- Become the best battle voter there is!
+- Small improvements and bugfixes</description>
             <pubDate>Fri, 21 Mar 2024 12:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/be/app/citylegends-skate-bmx-parkour/id1582785813" sparkle:version="1.6.0" sparkle:os="ios" />
+            <enclosure url="https://apps.apple.com/be/app/citylegends-skate-bmx-parkour/id1582785813" sparkle:version="1.7.0" sparkle:os="ios" />
         </item>
     </channel>
 </rss>
