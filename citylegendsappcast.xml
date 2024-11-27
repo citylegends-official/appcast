@@ -4,18 +4,16 @@
     <channel>
         <title>CityLegends - Appcast</title>
         <item>
-            <title>Release Notes</title>
-            <description>New and improved feed!
-- See more fun and better content
+            <title>New and improved feed!</title>
+            <description>- See more better content!
 - New design for better interaction with content
 - Small improvements and bugfixes</description>
             <pubDate>Thu, 27 Nov 2024 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.citylegends.citylegends" sparkle:version="1.8.2" sparkle:os="android" />
         </item>
         <item>
-            <title>Release Notes</title>
-            <description>New and improved feed!
-- See more fun and better content
+            <title>New and improved feed!</title>
+            <description>- See better content!
 - New design for better interaction with content
 - Small improvements and bugfixes</description>
             <pubDate>Thu, 27 Nov 2024 12:00:00 +0000</pubDate>
