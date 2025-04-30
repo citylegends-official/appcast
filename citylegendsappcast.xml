@@ -7,13 +7,13 @@
             <title>Release Note</title>
             <description>The in-app shop is now live! You can earn coins by winning in contests and use them to buy vouchers and exclusive merchandise directly in the app. Update now and start collecting!</description>
             <pubDate>Wed, 30 Apr 2025 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.citylegends.citylegends" sparkle:version="2.0.3" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.citylegends.citylegends" sparkle:version="2.1.1" sparkle:os="android" />
         </item>
         <item>
             <title>Release Note</title>
             <description>The in-app shop is now live! You can earn coins by winning in contests and use them to buy vouchers and exclusive merchandise directly in the app. Update now and start collecting!</description>
             <pubDate>Wed, 30 Apr 2025 12:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/be/app/citylegends-skate-bmx-parkour/id1582785813" sparkle:version="2.0.4" sparkle:os="ios" />
+            <enclosure url="https://apps.apple.com/be/app/citylegends-skate-bmx-parkour/id1582785813" sparkle:version="2.1.4" sparkle:os="ios" />
         </item>
     </channel>
 </rss>
