@@ -5,15 +5,15 @@
         <title>CityLegends - Appcast</title>
         <item>
             <title>Release Note</title>
-            <description>New merch items & shop issues fixed. Update now!</description>
+            <description>We've fixed some bugs to ensure a smoother experience, made overall improvements to performance, and introduced a new way to share your content.</description>
             <pubDate>Tue, 8 Jul 2025 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.citylegends.citylegends" sparkle:version="2.2.2" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.citylegends.citylegends" sparkle:version="2.3.1" sparkle:os="android" />
         </item>
         <item>
             <title>Release Note</title>
-            <description>New merch items & shop issues fixed. Update now!</description>
+            <description>We've fixed some bugs to ensure a smoother experience, made overall improvements to performance, and introduced a new way to share your content.</description>
             <pubDate>Tue, 8 Jul 2025 12:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/be/app/citylegends-skate-bmx-parkour/id1582785813" sparkle:version="2.2.2" sparkle:os="ios" />
+            <enclosure url="https://apps.apple.com/be/app/citylegends-skate-bmx-parkour/id1582785813" sparkle:version="2.3.1" sparkle:os="ios" />
         </item>
     </channel>
 </rss>
